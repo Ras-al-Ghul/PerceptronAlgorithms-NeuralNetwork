@@ -1,6 +1,6 @@
-#Perceptrons Algorithms and Neural Network implementation
+#Perceptron Algorithms and Neural Network implementation
 
-###Perceptrons Algorithms
+###Perceptron Algorithms
 
 To run: `python perceptrons.py`  
 Note : I very foolishly did not use `numpy` for here.
