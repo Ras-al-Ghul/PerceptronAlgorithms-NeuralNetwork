@@ -3,7 +3,7 @@
 ###Perceptron Algorithms
 
 To run: `python perceptrons.py`  
-Note : I very foolishly did not use `numpy` for here.
+Note : I very foolishly did not use `numpy` arrays here.
 
 The following algorithms are implemented:  
 1. `Single-sample perceptron`  
