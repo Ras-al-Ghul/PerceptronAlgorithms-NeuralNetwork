@@ -1,6 +1,6 @@
-#Perceptron Algorithms and Neural Network implementation
+# Perceptron Algorithms and Neural Network implementation
 
-###Perceptron Algorithms
+### Perceptron Algorithms
 
 To run: `python perceptrons.py`  
 Note : I very foolishly did not use `numpy` arrays here.
@@ -24,7 +24,7 @@ LMS provides an acceptable decision boundary with some classification error. For
 5. As part of the submission include the code for each of the algorithms along with a small report
 that explains the algorithms, implementation details, the results and their analysis.  
 
-###Neural Network
+### Neural Network
 
 To run: `python neuralnet.py`
 
